@@ -1,0 +1,21 @@
+order_id,order_date,ship_date,ship_mode,customer_name,segment,city,state,region,product_name,category,sub_category,sales,quantity,discount,profit
+CA-2017-1001,2017-01-05,2017-01-09,Second Class,Aarav Shah,Consumer,Mumbai,Maharashtra,West,Laptop,Technology,Machines,88000,1,0.05,13200
+CA-2017-1002,2017-01-18,2017-01-22,Standard Class,Neha Iyer,Corporate,Bengaluru,Karnataka,South,Office Chair,Furniture,Chairs,12500,2,0.10,2100
+CA-2017-1003,2017-02-03,2017-02-06,First Class,Rohan Mehta,Home Office,Delhi,Delhi,North,Printer Paper,Office Supplies,Paper,3200,8,0.00,720
+CA-2017-1004,2017-02-20,2017-02-25,Standard Class,Ananya Rao,Consumer,Hyderabad,Telangana,South,Monitor,Technology,Accessories,18500,2,0.15,3400
+CA-2017-1005,2017-03-01,2017-03-04,Second Class,Vikram Singh,Corporate,Delhi,Delhi,North,Desk,Furniture,Tables,22000,1,0.20,-900
+CA-2017-1006,2017-03-18,2017-03-23,Standard Class,Priya Nair,Consumer,Chennai,Tamil Nadu,South,Tablet,Technology,Phones,46000,2,0.05,6900
+CA-2017-1007,2017-04-05,2017-04-08,First Class,Ishaan Gupta,Home Office,Mumbai,Maharashtra,West,Ink Cartridge,Office Supplies,Supplies,7400,5,0.00,1600
+CA-2017-1008,2017-04-12,2017-04-17,Standard Class,Meera Joshi,Consumer,Pune,Maharashtra,West,Bookshelf,Furniture,Bookcases,15700,1,0.25,-1200
+CA-2017-1009,2017-05-02,2017-05-07,Second Class,Kabir Khan,Corporate,Bengaluru,Karnataka,South,Phone,Technology,Phones,64000,2,0.10,9400
+CA-2017-1010,2017-05-25,2017-05-30,Standard Class,Sanya Das,Consumer,Kolkata,West Bengal,East,Notebook,Office Supplies,Paper,2600,10,0.00,520
+CA-2018-1011,2018-06-08,2018-06-12,First Class,Aditya Roy,Corporate,Delhi,Delhi,North,Laptop,Technology,Machines,91000,1,0.05,14200
+CA-2018-1012,2018-06-22,2018-06-27,Standard Class,Nisha Jain,Consumer,Mumbai,Maharashtra,West,Sofa,Furniture,Furnishings,54000,1,0.30,-3500
+CA-2018-1013,2018-07-05,2018-07-10,Second Class,Ravi Kumar,Home Office,Hyderabad,Telangana,South,Desk Organizer,Office Supplies,Storage,4200,6,0.00,900
+CA-2018-1014,2018-07-19,2018-07-23,Standard Class,Tara Bose,Consumer,Kolkata,West Bengal,East,Monitor,Technology,Accessories,17600,2,0.10,3200
+CA-2018-1015,2018-08-07,2018-08-11,First Class,Karan Malhotra,Corporate,Pune,Maharashtra,West,Phone,Technology,Phones,67000,2,0.05,9800
+CA-2018-1016,2018-08-17,2018-08-21,Standard Class,Diya Menon,Consumer,Chennai,Tamil Nadu,South,Office Chair,Furniture,Chairs,18600,3,0.20,3100
+CA-2019-1017,2019-09-03,2019-09-07,Second Class,Arjun Kapoor,Corporate,Mumbai,Maharashtra,West,Laptop,Technology,Machines,94000,1,0.05,15100
+CA-2019-1018,2019-09-21,2019-09-25,Standard Class,Leela Reddy,Home Office,Bengaluru,Karnataka,South,Printer Paper,Office Supplies,Paper,5100,12,0.00,1100
+CA-2019-1019,2019-10-09,2019-10-13,First Class,Dev Patel,Consumer,Delhi,Delhi,North,Tablet,Technology,Phones,48000,2,0.15,7200
+CA-2019-1020,2019-10-24,2019-10-29,Standard Class,Myra Sen,Corporate,Kolkata,West Bengal,East,Desk,Furniture,Tables,23500,1,0.20,-700
