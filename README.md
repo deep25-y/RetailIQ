@@ -38,8 +38,4 @@ GROQ_API_KEY=your_key_here
 GROQ_MODEL=llama-3.3-70b-versatile
 ```
 
-## Dataset
 
-The app loads `data/superstore.csv` by default. You can also upload a Superstore
-CSV from the sidebar; the uploaded file replaces the default dataset for that
-Streamlit session.
